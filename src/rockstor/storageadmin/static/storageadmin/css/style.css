@@ -350,7 +350,7 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
 .logo-login {
     width: 100%;
     left: 0;
-    padding-left: 16%;
+    padding-left: 30%;
 }
 
 .alert-danger-login {
@@ -378,8 +378,8 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
 }
 
 .logo {
-    width: 150px;
-    transform: translateY(50%);
+    width: 35px;
+    transform: translateY(15%);
 }
 
 #logo-name {
